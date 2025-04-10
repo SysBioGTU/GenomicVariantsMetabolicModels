@@ -6,7 +6,7 @@ Reconstruction of personalized metabolic models by mapping genes with significan
 
 ## Usage
 
-This repository contains scripts for reconstructing genomic variant metabolic models using the iMAT algorithm. Certain input files must be generated using external tools, as outlined in detail by Uzuner et al. (2024). 
+This repository contains scripts for reconstructing genomic variant metabolic models using the iMAT algorithm. Certain input files must be generated using external tools, as outlined in detail by Uzuner Odongo et al. (2025). 
 
 The file "Generation_of_iMAT_and_iMAT_Variant_Models.mlx" demonstrates how to implement the analysis. Please adjust the input files according to your specific requirements. The names of the files within the scripts describe the structure of the input files.
 
@@ -18,9 +18,7 @@ These scripts are written in MATLAB, thus requiring a MATLAB license. Additional
 
 If you use Genomic Variants Metabolic Models, please cite : 
 
-A Personalized Metabolic Modelling Approach through Integrated Analysis of RNA-Seq-Based Genomic Variants and Gene Expression Levels in Alzheimer's Disease
-Dilara Uzuner, Atilay Ilgun, Fatma Betul Bozkurt, Tunahan Cakir
-bioRxiv 2024.04.24.590807; doi: https://doi.org/10.1101/2024.04.24.590807
+Uzuner Odongo, D., İlgün, A., Bozkurt, F.B. et al. A personalized metabolic modelling approach through integrated analysis of RNA-Seq-based genomic variants and gene expression levels in Alzheimer’s disease. Commun Biol 8, 502 (2025). https://doi.org/10.1038/s42003-025-07941-z
 
 ## Contact
 
